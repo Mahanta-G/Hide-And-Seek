@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>715068CE43122ED9324BEE931B438279</ExecutionGuid>
+<CrashGUID>UECC-Windows-140E197D49FBAC3BC62B84A5A5D6B593_0000</CrashGUID>
+<IsEnsure>true</IsEnsure>
+<IsStall>false</IsStall>
+<IsAssert>false</IsAssert>
+<CrashType>Ensure</CrashType>
+<ErrorMessage>Ensure condition failed: SlateViewport.IsValid()  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp] [Line: 2374] 
+
+Stack: 
+0x00007ff7504f1250 FinalYear.exe!UnknownFunction []
+0x00007ff7504f0633 FinalYear.exe!UnknownFunction []
+0x00007ff7548a81e9 FinalYear.exe!UnknownFunction []
+0x00007ff753ed8c99 FinalYear.exe!UnknownFunction []
+0x00007ff74ce5410b FinalYear.exe!UnknownFunction []
+0x00007ff74ce6eadc FinalYear.exe!UnknownFunction []
+0x00007ff74ce6ebba FinalYear.exe!UnknownFunction []
+0x00007ff74ce71ac6 FinalYear.exe!UnknownFunction []
+0x00007ff74ce847f4 FinalYear.exe!UnknownFunction []
+0x00007ff756ad996a FinalYear.exe!UnknownFunction []
+0x00007ffcdc7b257d KERNEL32.DLL!UnknownFunction []
+0x00007ffcddc0aa48 ntdll.dll!UnknownFunction []
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>19048</ProcessId>
+<SecondsSinceStart>210</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE-FinalYear</GameName>
+<ExecutableName>FinalYear</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>5.2.1-26001984+++UE5+Release-5.2</EngineVersion>
+<CommandLine> FinalYear</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>en-IN</AppDefaultLocale>
+<BuildVersion>++UE5+Release-5.2-CL-26001984</BuildVersion>
+<Symbols>**UE5*Release-5.2-CL-26001984-Win64-Development</Symbols>
+<IsUERelease>false</IsUERelease>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>D:/my g/Windows/FinalYear/Binaries/Win64/</BaseDir>
+<RootDir>D:/my g/Windows/</RootDir>
+<MachineId>4EBD59544E2405ECBE17D696863FA083</MachineId>
+<LoginId>4ebd59544e2405ecbe17d696863fa083</LoginId>
+<EpicAccountId>d28deb39b49a41a69488316e4a1d334e</EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>8</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>AuthenticAMD</Misc.CPUVendor>
+<Misc.CPUBrand>AMD Ryzen 9 5900HX with Radeon Graphics        </Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>AMD Radeon(TM) Graphics</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 11 (23H2) [10.0.22631.3447]</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>16558063616</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>49012670464</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>2322960384</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>8174813184</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>1008590848</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>2467524608</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>3823001600</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>6179422208</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>6</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+
+FinalYear  0x00007ff74c360000 + 4191250         
+FinalYear  0x00007ff74c360000 + 4190633         
+FinalYear  0x00007ff74c360000 + 85481e9         
+FinalYear  0x00007ff74c360000 + 7b78c99         
+FinalYear  0x00007ff74c360000 + af410b          
+FinalYear  0x00007ff74c360000 + b0eadc          
+FinalYear  0x00007ff74c360000 + b0ebba          
+FinalYear  0x00007ff74c360000 + b11ac6          
+FinalYear  0x00007ff74c360000 + b247f4          
+FinalYear  0x00007ff74c360000 + a77996a         
+KERNEL32   0x00007ffcdc7a0000 + 1257d           
+ntdll      0x00007ffcddbb0000 + 5aa48           
+</PCallStack>
+<PCallStackHash>96216732AD2CC6E36D94A215672E7A2B363247BF</PCallStackHash>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>true</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+<CrashTrigger>0</CrashTrigger>
+</PlatformProperties>
+<EngineData>
+<MatchingDPStatus>WindowsNo errors</MatchingDPStatus>
+<RHI.IntegratedGPU>false</RHI.IntegratedGPU>
+<RHI.DriverDenylisted>false</RHI.DriverDenylisted>
+<RHI.D3DDebug>false</RHI.D3DDebug>
+<RHI.Breadcrumbs>true</RHI.Breadcrumbs>
+<RHI.DRED>false</RHI.DRED>
+<RHI.DREDContext>false</RHI.DREDContext>
+<RHI.Aftermath>true</RHI.Aftermath>
+<RHI.RHIName>D3D12</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce RTX 3060 Laptop GPU</RHI.AdapterName>
+<RHI.UserDriverVersion>537.13</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>31.0.15.3713</RHI.InternalDriverVersion>
+<RHI.DriverDate>8-14-2023</RHI.DriverDate>
+<RHI.FeatureLevel>SM6</RHI.FeatureLevel>
+<RHI.GPUVendor>NVIDIA</RHI.GPUVendor>
+<RHI.DeviceId>2520</RHI.DeviceId>
+<DeviceProfile.Name>Windows</DeviceProfile.Name>
+<Platform.AppHasFocus>false</Platform.AppHasFocus>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>
