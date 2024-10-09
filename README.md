@@ -16,23 +16,21 @@ To run this game, you will need:
 
 ### 1. Downloading the Game Setup
 
-The game has a file that has been packaged into a `.7z` archive due to its size. Follow these steps to download and extract the setup:
+The game has a file that has been uploaded in a google drive for which i'll be sharing a link below please download it from there and paste it in the folder specified below:
 
-1. Download the `.7z` file from the repository or the release page.
-2. Ensure you have **7-Zip** installed on your system for extraction.
+1. Download the file from the google drive link given below.
+2. Drive link : (https://drive.google.com/drive/folders/1VWuKISb2Tln-eYGDXhDSWEvbiGiIafjI?usp=drive_link).
 
-### 2. Extracting the Game Setup
+### 2. Fixing the Game Setup
 
-To extract the `.7z` file:
+To Place file:
 
-1. **Download and Install 7-Zip**: If you don’t have it, download it from [7-Zip’s official site](https://www.7-zip.org/).
-2. **Finding the zip file**:its in the folder FinalYear/Content/Paks as FinalYear-Windows.7z.001 **.
-3. **Right-click on the `.7z` file**:Select **7-Zip > Extract Here** and you could delete the zip files after that.
-4. The game files will be extracted into the current folder.
+1. **Download The File From Link given above**: it was given as such due to size limitation of github.
+2. **Finding the file location**: After downloading, paste it in the folder FinalYear/Content/Paks. **.
 
 ### 3. Running the Game
 
-After extraction, follow these steps to run the game:
+After all that, follow these steps to run the game:
 
 1. Look for the `HideAndSeek.exe` (or equivalent executable file).
 2. Double-click to run the game.
