@@ -43,7 +43,12 @@ Once the game is running:
   - **Hiders**: Find a good hiding spot and avoid being caught by the seekers.
   - **Seekers**: Locate the hiders within the given time limit.
 
-Enjoy the fun and thrill of the game!
+## Documentation
+
+It was a game i made for my final year project and i will be adding a documentation of the work in the repo so do check it out if you wanna know how it was made or why:
+PS. I am working on it to make it better user friendly and much more interactive and will definitely upload it in Epic games or on my portfolio somewhere by the end of this year along with multiplayer functionality and plus a game mode with the classic team deathmatch or free for all gameplay with guns so that you guys could have fun playing with your friends. So do keep an eye.
+
+And So Finally Enjoy the fun and thrill of the game!
 
 ## Contributing
 
